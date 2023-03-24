@@ -14,6 +14,7 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 import { MatCardModule } from '@angular/material/card';
 import { MatInputModule } from '@angular/material/input';
 import { MatFormFieldModule } from '@angular/material/form-field';
+import { CookieService } from 'ngx-cookie-service';
 
 // Angular material imports
 import { MatMenuModule } from '@angular/material/menu';
@@ -51,7 +52,8 @@ import { MessagesModule }  from 'primeng/messages';
     ReactiveFormsModule,
     MatCardModule,
     MatInputModule,
-    MatFormFieldModule
+    MatFormFieldModule,
+
   ],
   providers: [],
   bootstrap: [AppComponent]
