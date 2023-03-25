@@ -26,7 +26,7 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatDividerModule } from '@angular/material/divider';
 import { MessageModule }  from 'primeng/message';
 import { MessagesModule }  from 'primeng/messages';
-import { AuthGuard } from './auth.guard';
+
 
 @NgModule({
   declarations: [
