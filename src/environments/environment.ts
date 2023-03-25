@@ -1,7 +1,19 @@
+/*
+============================================
+; Title: environment.ts
+; Author: Professor Krasso
+; Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: environment.ts for nodebucket
+============================================
+*/
+
+
 // This file can be replaced during build by using the `fileReplacements` array.
 // `ng build` replaces `environment.ts` with `environment.prod.ts`.
 // The list of file replacements can be found in `angular.json`.
 
+// The build system defaults to the dev environment which uses `environment.ts`, but if you do
 export const environment = {
   production: false
 };

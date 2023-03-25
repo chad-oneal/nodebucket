@@ -1,13 +1,22 @@
-/**
- * Require statements
- */
+/*
+============================================
+; Title: index.js
+; Author: Professor Krasso
+: Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: index.js for nodebucket
+============================================
+*/
+
+// Require statements
 const express = require('express');
 const path = require('path');
 const mongoose = require('mongoose');
 const createError = require('http-errors');
 const employeeAPI = require('./routes/employee-routes');
 
-const app = express(); // Express variable.
+// Create the Express application.
+const app = express();
 
 /**
  * App configurations.
@@ -37,10 +46,12 @@ mongoose.connect(CONN).then(() => {
 // localhost:3000/api/employees/:empId
 app.use("/api/employees", employeeAPI);
 
+// Catch-all 404
 app.use(function(req, res, next) {
   next(createError(404))
 })
 
+// Error handler
 app.use(function(err, req, res, next) {
 
   res.status(err.status || 500)

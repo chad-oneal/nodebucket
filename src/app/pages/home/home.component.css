@@ -1,12 +1,28 @@
+/*
+============================================
+; Title: home.component.css for nodebucket
+; Author: Prof Krasso
+: Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: home.component.css for nodebucket
+===========================================
+*/
+
+/* stylings for the welcome page
+*/
 .main-welcome {
   margin-top: 30px;
 }
 
+/* stylings for title
+*/
 .title {
   text-align: center;
   font-weight: lighter;
 }
 
+/* stylings for subtitle
+*/
 .subtitle {
   text-align: center;
   font-size: 14px;
