@@ -1,3 +1,14 @@
+/*
+============================================
+; Title: employee-routes.js
+; Author: Professor Krasso
+: Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: employee-routes.js for nodebucket
+============================================
+*/
+
+// Require statements
 const express = require('express');
 const Employee = require ('../models/employee');
 
@@ -30,6 +41,7 @@ const router = express.Router();
 *         description: MongoDB exception
 */
 
+// FindEmployeeById API
 router.get('/:id', (req, res, next) => {
 
   let empId = req.params.id
@@ -54,4 +66,5 @@ router.get('/:id', (req, res, next) => {
   }
 })
 
+// Export the router
 module.exports = router;

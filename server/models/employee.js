@@ -1,3 +1,15 @@
+/*
+============================================
+, Title: employee.js
+; Author: Professor Krasso
+: Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: employee.js for nodebucket
+============================================
+*/
+
+
+// Require statements
 const mongoose = require('mongoose');
 const Schema = mongoose.Schema;
 

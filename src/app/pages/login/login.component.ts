@@ -1,3 +1,14 @@
+/*
+============================================
+; Title: login.component.ts
+; Author: Professor Krasso
+; Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: login.component.ts
+============================================
+*/
+
+// import statements
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { CookieService } from 'ngx-cookie-service';
@@ -6,11 +17,14 @@ import { Router } from '@angular/router';
 import { Message } from 'primeng/api';
 import { Employee } from '../../shared/models/employee.interface';
 
+// component
 @Component({
   selector: 'app-login',
   templateUrl: './login.component.html',
   styleUrls: ['./login.component.css']
 })
+
+// export class
 export class LoginComponent implements OnInit {
 
   errorMessages: Message[] = []
@@ -23,6 +37,7 @@ export class LoginComponent implements OnInit {
     ],
   });
 
+  // constructor
   constructor(private fb: FormBuilder, private router: Router, private cookieService: CookieService, private sessionService: SessionService) {
     this.employee = {} as Employee
   }
@@ -30,9 +45,11 @@ export class LoginComponent implements OnInit {
   ngOnInit(): void {
   }
 
+  // login function
   login() {
     const empId = this.loginForm.controls['empId'].value
 
+    // subscribe to session service
     this.sessionService.findEmployeeById(empId).subscribe({
       next: (res: any) => {
         if (res) {
@@ -47,6 +64,7 @@ export class LoginComponent implements OnInit {
         }
 
       },
+      // error message
       error: (err) => {
         console.error(err)
         this.errorMessages = [

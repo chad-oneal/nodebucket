@@ -1,3 +1,13 @@
+/*
+============================================
+, Title: polyfill.ts
+; Author: Professor Krasso
+; Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: polyfill.ts for nodebucket
++===========================================
+*/
+
 /**
  * This file includes polyfills needed by Angular and is loaded before the app.
  * You can add your own extra polyfills to this file.

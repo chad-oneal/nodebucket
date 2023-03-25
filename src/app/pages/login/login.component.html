@@ -1,5 +1,17 @@
+<!--
+==============================================
+; Title: nodebucket login.component.html
+; Author: Professor Krasso
+; Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: html for nodebucket
+==============================================
+-->
+
+<!-- This is the login page for the nodebucket application. -->
 <div fxLayout="column">
 
+  <!-- This is the login card. -->
   <mat-card fxFlex class="login-container">
     <mat-card-header>
       <mat-card-title class="login-title">
@@ -8,11 +20,13 @@
 
       <br>
 
+      <!-- This is the subtitle for the login card. -->
       <mat-card-subtitle class="login-subtitle">
         Valid employee ID must be entered to continue.
       </mat-card-subtitle>
     </mat-card-header>
 
+    <!-- This is the login form. -->
     <mat-card-content>
       <p-messages [(value)]="errorMessages" [enableService]="false"></p-messages>
       <mat-card class="mat-elevation-z0">
@@ -21,6 +35,7 @@
             <mat-form-field appearance="fill" class="w-100">
               <input matInput formControlName="empId" placeholder="Employee ID" />
 
+              <!-- This is the error message for the employee ID field. -->
               <mat-error
                 *ngIf="loginForm.controls['empId'].hasError('required') && loginForm.controls['empId'].touched">
                 Employee ID is required.
@@ -33,6 +48,7 @@
             </mat-form-field>
           </mat-card-content>
 
+          <!-- This is the login button. -->
           <mat-card-actions>
             <button type="submit" fxFlex mat-raised-button color="primary" class="btn-lg"
               [disabled]="!loginForm.valid">Log In</button>

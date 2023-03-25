@@ -1,5 +1,17 @@
+/*
+============================================
+; Title: test.ts
+; Author: Professor Krasso
+; Modified by: Chad ONeal
+; Date: 03/25/2023
+; Description: test.ts for nodebucket
+============================================
+*/
+
+
 // This file is required by karma.conf.js and loads recursively all the .spec and framework files
 
+// import statements
 import 'zone.js/testing';
 import { getTestBed } from '@angular/core/testing';
 import {
@@ -7,6 +19,7 @@ import {
   platformBrowserDynamicTesting
 } from '@angular/platform-browser-dynamic/testing';
 
+// The require method provided by webpack
 declare const require: {
   context(path: string, deep?: boolean, filter?: RegExp): {
     <T>(id: string): T;

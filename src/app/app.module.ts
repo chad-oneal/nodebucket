@@ -1,6 +1,18 @@
+/*
+============================================
+; Title: app.module.ts
+; Author: Professor Krasso
+; Modified By: Chad ONeal
+; Date: 03/25/2023
+; Description: app.module.ts for nodebucket
+============================================
+*/
+
+// import statements
 import { NgModule } from '@angular/core';
 import { BrowserModule } from '@angular/platform-browser';
 
+//
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
@@ -27,8 +39,7 @@ import { MatDividerModule } from '@angular/material/divider';
 import { MessageModule }  from 'primeng/message';
 import { MessagesModule }  from 'primeng/messages';
 
-
-
+// module declarations
 @NgModule({
   declarations: [
     AppComponent,
@@ -60,4 +71,6 @@ import { MessagesModule }  from 'primeng/messages';
   providers: [],
   bootstrap: [AppComponent]
 })
+
+// export class
 export class AppModule { }
