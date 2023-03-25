@@ -1,10 +1,10 @@
 import { Component, OnInit } from '@angular/core';
 import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { CookieService } from 'ngx-cookie-service';
-import { SessionService } from 'src/app/shared/session.service';
+import { SessionService } from '../../shared/session.service';
 import { Router } from '@angular/router';
 import { Message } from 'primeng/api';
-import { Employee } from 'src/app/shared/models/employee.interface';
+import { Employee } from '../../shared/models/employee.interface';
 
 @Component({
   selector: 'app-login',
