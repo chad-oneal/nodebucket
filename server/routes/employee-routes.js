@@ -15,30 +15,31 @@ const Employee = require ('../models/employee');
 
 const router = express.Router();
 
-//YAML for Swagger testing
 /**
 * findEmployeeById
 * @openapi
-* /api/employees/{empId}:
+* /api/employees/{id}:
 *   get:
-*     description:  API for returning employees via employeeId
-*     summary: Returns employee info from employeeId
+*     tags:
+*       - Employees
+*     description:  API for returning an employee document
+*     summary: returns an employee document
 *     parameters:
-*       - name: empId
+*       - name: id
 *         in: path
 *         required: true
-*         description: Employees ID
+*         description: Employee ID
 *         schema:
-*           type: Number
+*           type: number
 *     responses:
 *       '200':
-*         description: Employee document
+*         description: Composer document
 *       '401':
 *         description: Invalid employeeId
 *       '500':
 *         description: Server exception
 *       '501':
-*         description: MongoDB exception
+*         description: MongoDB Exception
 */
 
 // FindEmployeeById API
