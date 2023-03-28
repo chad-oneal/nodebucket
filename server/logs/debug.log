@@ -1,0 +1,52 @@
+[3/28/2023, 3:53:39 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [],
+  done: []
+}
+
+[3/28/2023, 3:58:51 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [],
+  done: []
+}
+[3/28/2023, 3:59:08 PM] server	 employee-routes.js - null
+[3/28/2023, 4:02:45 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [],
+  done: []
+}
+[3/28/2023, 4:50:44 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  todo: [],
+  done: []
+}
+[3/28/2023, 4:54:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  todo: [],
+  done: []
+}
+[3/28/2023, 5:40:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("64235eb8d5fa6dad4f87cc12")
+    }
+  ],
+  done: [],
+  __v: 1
+}

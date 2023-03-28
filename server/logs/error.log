@@ -1,0 +1,5 @@
+[3/28/2023, 3:56:09 PM] server	 employee-routes.js - empId can not be found: ${err.message}
+[3/28/2023, 3:56:57 PM] server	 employee-routes.js - empId can not be found: ${err.message}
+[3/28/2023, 4:50:59 PM] server	 employee-route.js - id could note be parsed: NaN
+[3/28/2023, 4:50:59 PM] server	 employee-route.js - req.params must be a number: foo
+[3/28/2023, 4:51:07 PM] server	 employee-route.js - NotFoundError: Not Found
