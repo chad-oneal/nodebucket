@@ -1,3 +1,13 @@
+/*
+============================================
+, Title: debug.log
+; Author: Professor Krasso
+: Modified by: Chad ONeal
+; Date: 03/28/2023
+; Description: debug.log for nodebucket
+============================================
+*/
+
 [3/28/2023, 3:53:39 PM] server	 employee-routes.js - {
   _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
   empId: 1007,
@@ -4920,3 +4930,422 @@
     }
   ]
 }
+[4/2/2023, 10:52:49 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    }
+  ]
+}
+[4/2/2023, 10:57:34 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 2,
+  done: [],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("64298ec850ddef3851899da6")
+    },
+    {
+      text: 'move tasks to done',
+      _id: new ObjectId("64298ed150ddef3851899daa")
+    }
+  ]
+}
+[4/2/2023, 11:01:51 AM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("64298ec850ddef3851899da6")
+    },
+    {
+      text: 'move tasks to done',
+      _id: new ObjectId("64298ed150ddef3851899daa")
+    }
+  ]
+}
+[4/2/2023, 11:29:54 AM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 4,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/2/2023, 11:31:31 AM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 5,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/2/2023, 11:45:51 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    }
+  ]
+}
+[4/2/2023, 11:45:55 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    }
+  ]
+}
+[4/2/2023, 11:46:00 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    }
+  ]
+}
+[4/2/2023, 11:46:28 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    }
+  ]
+}
+[4/2/2023, 11:59:03 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 3,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") }
+  ]
+}
+[4/2/2023, 11:59:03 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") }
+  ]
+}
+[4/2/2023, 12:03:49 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 4,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/2/2023, 12:09:02 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/2/2023, 12:09:03 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/2/2023, 12:09:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/2/2023, 12:10:01 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/2/2023, 12:10:07 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/2/2023, 12:10:33 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/2/2023, 12:26:26 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/2/2023, 12:26:34 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 2,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    }
+  ]
+}
+[4/2/2023, 12:26:34 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    }
+  ]
+}
+[4/2/2023, 12:27:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 3,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    },
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/2/2023, 12:28:07 PM] server	 employee-routes.js - null
+[4/2/2023, 12:28:48 PM] server	 employee-routes.js - null

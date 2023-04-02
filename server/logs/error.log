@@ -1,5 +1,19 @@
+/*
+============================================
+, Title: debug.log
+; Author: Professor Krasso
+: Modified by: Chad ONeal
+; Date: 03/28/2023
+; Description: debug.log for nodebucket
+============================================
+*/
+
 [3/28/2023, 3:56:09 PM] server	 employee-routes.js - empId can not be found: ${err.message}
 [3/28/2023, 3:56:57 PM] server	 employee-routes.js - empId can not be found: ${err.message}
 [3/28/2023, 4:50:59 PM] server	 employee-route.js - id could note be parsed: NaN
 [3/28/2023, 4:50:59 PM] server	 employee-route.js - req.params must be a number: foo
 [3/28/2023, 4:51:07 PM] server	 employee-route.js - NotFoundError: Not Found
+[4/2/2023, 11:00:45 AM] server	 employee-routes.js - empId can not be found: ${err.message}
+[4/2/2023, 11:32:12 AM] server	 employee-route.js - id could note be parsed: NaN
+[4/2/2023, 11:32:12 AM] server	 employee-route.js - req.params.empId must be a number foo
+[4/2/2023, 11:32:45 AM] server	 employee-route.js - NotFoundError: Not Found
