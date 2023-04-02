@@ -16,8 +16,8 @@ import { HomeComponent } from "./pages/home/home.component";
 import { AuthLayoutComponent } from './shared/auth-layout/auth-layout.component';
 import { LoginComponent } from './pages/login/login.component';
 import { AuthGuard } from './auth.guard';
+import { ContactComponent } from './pages/contact/contact.component';
 
-// routes
 const routes: Routes = [
   {
     path: '',
@@ -27,7 +27,13 @@ const routes: Routes = [
         path: '',
         component: HomeComponent,
         canActivate: [AuthGuard]
-      }
+      },
+      {
+        path: 'contact',
+        component: ContactComponent,
+        canActivate: [AuthGuard]
+      },
+
     ]
   },
   {
@@ -37,7 +43,7 @@ const routes: Routes = [
       {
         path: 'login',
         component: LoginComponent
-      }
+      },
     ]
   }
 ];

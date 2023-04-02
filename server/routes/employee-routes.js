@@ -15,6 +15,7 @@ const router = express.Router();
 const { debugLogger, errorLogger } = require('../logs/logger');
 const createError = require('http-errors');
 const Ajv = require('ajv')
+const BaseResponse = require('../models/base-response');
 
 // Logging and Validation
 const myFile = 'employee-route.js';
@@ -78,7 +79,7 @@ router.get('/:id', (req, res, next) => {
   let empId = req.params.id
   empId = parseInt(empId, 10)
 
-  //analyzing empId to ee if the employee id entered was a number.  If not a number, display the id entered and bad request.
+  //analyzing empId to ee if the employee id entered was a number.
   if(isNaN(empId)) {
       const err = new Error('Bad Request')
       err.status = 400
@@ -242,6 +243,11 @@ router.post('/:empId/tasks', async(req, res, next) => {
           const result = await emp.save()
           console.log(result)
           debugLogger({filename: myFile, message: result})
+
+          const task = result.todo.pop()
+
+          const newTaskResponse = new BaseResponse(201, 'Task item added successfully', {id: task._id})
+          res.status(201).send(newTaskResponse)
           res.status(204).send()
         }
 

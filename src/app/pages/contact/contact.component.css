@@ -1,0 +1,32 @@
+/*
+============================================
+, Title: contact.component.css for loan-app
+; Author: Chad ONeal
+; Date: 03/30/2023
+; Description: contact.component.css loan-app
+===========================================
+*/
+
+/* stylings for icons above contact info
+*/
+.card-title-icon {
+  text-align: center;
+  color: #AAAAAA;
+  padding: 45px;
+
+}
+
+.align-center {
+  text-align: center;
+}
+
+/* stylings for text on page
+*/
+p {
+  font-size: 25px;
+}
+
+
+
+
+

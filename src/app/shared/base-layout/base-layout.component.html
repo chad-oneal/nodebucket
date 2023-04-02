@@ -8,6 +8,12 @@
 ==============================================
 -->
 
+<!--logout dialog warnings -->
+<div>
+  <p-toast></p-toast>
+  <p-confirmDialog></p-confirmDialog>
+</div>
+
 <!-- This is the base layout for the nodebucket application. -->
 <div fxLayout="column">
 
@@ -15,12 +21,14 @@
   <nav fxFlex>
     <mat-toolbar>
 
-      <!-- navbar container -->
+      <!--slytherin image-->
+      <img src="./assets/Slytherin-Emblema.png" alt="slithering snake">
       <div class="navbar-container">
+
         <!-- logo -->
-        <button class="logo" routerLink="/" mat-button>nodebucket</button>
         <button class="navbar-link" routerLink="/" mat-button>Home</button>
-        <button class="navbar-link" mat-button>About</button>
+        <button class="navbar-link" routerLink="/about" mat-button>About</button>
+        <button class="navbar-link" routerLink="/contact" mat-button>Contact</button>
       </div>
 
       <!-- spacer -->
@@ -29,7 +37,7 @@
       <!-- profile menu -->
       <div>
         <button mat-icon-button [matMenuTriggerFor]="profileMenu" aria-label="User profile menu">
-          <mat-icon>perm_identity</mat-icon>
+          <mat-icon style="margin-left: -195%; font-size: 30px;">person</mat-icon>
         </button>
         <mat-menu #profileMenu>
           <p style="padding: 10px; font-size: 16px; font-weight: lighter;">Signed in as {{ sessionName }}</p>

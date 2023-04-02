@@ -12,19 +12,33 @@
 /* styling for the base layout */
 .logo {
   margin-left: 75px;
-  font-size: 24px;
-  font-weight: lighter;;
+  font-size: 38px;
+  font-weight: lighter;
+}
+
+mat-toolbar {
+  background-color: #2A623D;
+  color: #AAAAAA;
+  height: 105px;
+}
+
+img {
+  height: 100px;
+  width: 155px;
 }
 
 /* styling for the navbar */
 .navbar-container {
   padding: 5px;
+  margin-left: 63%;
+
 }
 
 /* styling for the navbar links */
 .navbar-link {
-  font-size: 24px;
+  font-size: 38px;
   font-weight: lighter;
+
 }
 
 /* styling for the main content */
@@ -43,16 +57,22 @@
 .footer-content {
   font-size: 16px;
   font-weight: lighter;
-  padding-left: 100px;
+  padding-left: 750px;
   letter-spacing: 3px;
 }
 
 /* styling for the buttons */
 .bu-link {
   text-decoration: none;
+  color: #CCA43D;
 }
 
 /* styling for the buttons on hover */
 .bu-link:hover {
   text-decoration: underline;
+  color: #AAAAAA;
+}
+
+.p-confirmDialog {
+  width: 35vw;
 }

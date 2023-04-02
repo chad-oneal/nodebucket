@@ -38,6 +38,9 @@ import { MatIconModule } from '@angular/material/icon';
 import { MatDividerModule } from '@angular/material/divider';
 import { MessageModule }  from 'primeng/message';
 import { MessagesModule }  from 'primeng/messages';
+import { ContactComponent } from './pages/contact/contact.component';
+import { ToastModule } from 'primeng/toast';
+import { ConfirmDialogModule } from 'primeng/confirmdialog';
 
 // module declarations
 @NgModule({
@@ -46,7 +49,8 @@ import { MessagesModule }  from 'primeng/messages';
     HomeComponent,
     AuthLayoutComponent,
     BaseLayoutComponent,
-    LoginComponent
+    LoginComponent,
+    ContactComponent
   ],
   imports: [
     BrowserModule,
@@ -66,6 +70,10 @@ import { MessagesModule }  from 'primeng/messages';
     MatCardModule,
     MatInputModule,
     MatFormFieldModule,
+    ToastModule,
+    ConfirmDialogModule
+
+
 
   ],
   providers: [],
