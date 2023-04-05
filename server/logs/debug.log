@@ -4920,3 +4920,6791 @@
     }
   ]
 }
+[4/3/2023, 9:22:06 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 4,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/3/2023, 9:22:07 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/3/2023, 9:22:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 6:48:29 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 5,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ],
+  firstName: 'Mark'
+}
+[4/4/2023, 7:02:08 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 4,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:02:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:03:37 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:11:45 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:17:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:18:09 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 4,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:18:09 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:23:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:25:32 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:33:20 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:36:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongodb',
+      _id: new ObjectId("64298f6050ddef3851899dea")
+    },
+    {
+      text: 'move tasks to done column',
+      _id: new ObjectId("64298f6b50ddef3851899dee")
+    },
+    { text: '1010', _id: new ObjectId("64298fc550ddef3851899df3") },
+    {
+      text: 'get mor rest',
+      _id: new ObjectId("6429a7651adc5f2b3e8ba6a6")
+    }
+  ]
+}
+[4/4/2023, 7:40:01 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    }
+  ]
+}
+[4/4/2023, 7:40:07 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    }
+  ]
+}
+[4/4/2023, 7:45:33 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    }
+  ]
+}
+[4/4/2023, 7:48:12 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    }
+  ]
+}
+[4/4/2023, 7:53:12 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    }
+  ]
+}
+[4/4/2023, 8:10:10 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    }
+  ]
+}
+[4/4/2023, 8:10:39 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 5,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    }
+  ]
+}
+[4/4/2023, 8:10:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    }
+  ]
+}
+[4/4/2023, 8:10:50 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 6,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/4/2023, 8:11:49 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 7,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("64235eb8d5fa6dad4f87cc12")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/4/2023, 8:11:49 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("64235eb8d5fa6dad4f87cc12")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/4/2023, 8:11:57 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 2,
+  done: [],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("64298ec850ddef3851899da6")
+    },
+    {
+      text: 'move tasks to done',
+      _id: new ObjectId("64298ed150ddef3851899daa")
+    }
+  ]
+}
+[4/4/2023, 8:11:57 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("64298ec850ddef3851899da6")
+    },
+    {
+      text: 'move tasks to done',
+      _id: new ObjectId("64298ed150ddef3851899daa")
+    }
+  ]
+}
+[4/4/2023, 8:12:06 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 5,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ],
+  firstName: 'Mark'
+}
+[4/4/2023, 8:12:06 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ]
+}
+[4/4/2023, 8:12:18 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 5,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/4/2023, 8:12:18 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ]
+}
+[4/4/2023, 8:12:28 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 3,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    },
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/4/2023, 8:12:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    },
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/4/2023, 8:12:43 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 6,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/4/2023, 8:12:44 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/4/2023, 8:15:04 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/4/2023, 8:15:50 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 5,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/4/2023, 8:15:50 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ]
+}
+[4/4/2023, 8:19:29 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ]
+}
+[4/4/2023, 8:21:49 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ]
+}
+[4/5/2023, 9:47:09 AM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ]
+}
+[4/5/2023, 9:47:24 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 7,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("64235eb8d5fa6dad4f87cc12")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 9:47:24 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("64235eb8d5fa6dad4f87cc12")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:02:44 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 8,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:02:44 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:05:39 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:07:25 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:07:32 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:13:29 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:17:16 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:17:19 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:31:45 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:33:04 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:33:13 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:33:19 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:34:15 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:34:19 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:35:24 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:35:42 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:36:06 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:36:11 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:36:15 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:58:24 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:58:26 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 10:58:28 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:17 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:20 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:22 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:25 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:27 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:29 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:34 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:38 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:47 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:56 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:07:59 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:08:02 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:08:04 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:08:07 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:08:08 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:08:10 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:08:12 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:10:18 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:10:21 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:10:26 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:14:32 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:14:38 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:14:40 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:14:52 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:26:25 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:26:29 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:26:36 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 6,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:26:36 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:29:40 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:32:28 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:34:23 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:34:28 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:34:35 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:34:40 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:34:56 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:35:03 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:35:05 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'get it crunk',
+      _id: new ObjectId("642cb4c70785205cf10f2f36")
+    },
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") }
+  ]
+}
+[4/5/2023, 11:48:02 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [ { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") } ]
+}
+[4/5/2023, 11:48:13 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 5,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 11:48:13 AM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ]
+}
+[4/5/2023, 11:48:25 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 8,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:48:25 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:49:21 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 11:52:02 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 5,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 11:52:02 AM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ]
+}
+[4/5/2023, 11:52:08 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 7,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [ { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") } ]
+}
+[4/5/2023, 11:52:08 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [ { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") } ]
+}
+[4/5/2023, 11:55:00 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [ { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") } ]
+}
+[4/5/2023, 11:55:10 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 7,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [ { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") } ]
+}
+[4/5/2023, 11:55:10 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [ { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") } ]
+}
+[4/5/2023, 12:13:03 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:18:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:19:56 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:26:23 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d60d78c884ffa9d2b265")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:26:53 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 9,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:45:23 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:49:42 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:50:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:53:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 8,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    }
+  ]
+}
+[4/5/2023, 12:54:51 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 12:56:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 1:00:32 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 1:00:48 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 9,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 1:01:33 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d62478c884ffa9d2b26a")
+    },
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 1:02:26 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 9,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:04:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 10,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 1:05:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: [
+    {
+      text: 'go to bed early',
+      _id: new ObjectId("6424d869bf8e739cc5d73ee2")
+    },
+    {
+      text: 'Go to bed early',
+      _id: new ObjectId("6425e714116cfaf00979bcf9")
+    },
+    {
+      text: 'wake up late',
+      _id: new ObjectId("6425e8a261b03af7894b9b10")
+    },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642632756d621f67ad769a36")
+    }
+  ]
+}
+[4/5/2023, 1:05:48 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 2,
+  done: [],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("64298ec850ddef3851899da6")
+    },
+    {
+      text: 'move tasks to done',
+      _id: new ObjectId("64298ed150ddef3851899daa")
+    }
+  ]
+}
+[4/5/2023, 1:05:48 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("64298ec850ddef3851899da6")
+    },
+    {
+      text: 'move tasks to done',
+      _id: new ObjectId("64298ed150ddef3851899daa")
+    }
+  ]
+}
+[4/5/2023, 1:05:56 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 5,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:05:56 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: [
+    { text: 'todo', _id: new ObjectId("642622b4ae68f7d2063f3b86") },
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ]
+}
+[4/5/2023, 1:06:05 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 5,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:06:05 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ]
+}
+[4/5/2023, 1:06:13 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 3,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    },
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/5/2023, 1:06:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    },
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/5/2023, 1:06:21 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 9,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:06:22 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:10:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:13:31 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:13:36 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:18:58 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [ { text: 'string', _id: new ObjectId("642dad822d035b9223928f40") } ],
+  done: [
+    {
+      text: 'eat more fruit',
+      _id: new ObjectId("642dad822d035b9223928f41")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 11
+}
+[4/5/2023, 1:20:04 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    { text: '1007', _id: new ObjectId("642cbc8aa3c6cb8f08e42092") },
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:20:14 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 11,
+  done: [
+    {
+      text: 'eat more fruit',
+      _id: new ObjectId("642dad822d035b9223928f41")
+    }
+  ],
+  todo: [ { text: 'string', _id: new ObjectId("642dad822d035b9223928f40") } ]
+}
+[4/5/2023, 1:20:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'eat more fruit',
+      _id: new ObjectId("642dad822d035b9223928f41")
+    }
+  ],
+  todo: [ { text: 'string', _id: new ObjectId("642dad822d035b9223928f40") } ]
+}
+[4/5/2023, 1:20:45 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 11,
+  done: [
+    {
+      text: 'eat more fruit',
+      _id: new ObjectId("642dad822d035b9223928f41")
+    }
+  ],
+  todo: [ { text: 'string', _id: new ObjectId("642dad822d035b9223928f40") } ]
+}
+[4/5/2023, 1:20:54 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("64298ec850ddef3851899da6")
+    },
+    {
+      text: 'move tasks to done',
+      _id: new ObjectId("64298ed150ddef3851899daa")
+    }
+  ]
+}
+[4/5/2023, 1:21:46 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 10,
+  done: [
+    {
+      text: 'Feed Neeblit',
+      _id: new ObjectId("642cb4c70785205cf10f2f37")
+    }
+  ],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:22:09 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 11,
+  done: [],
+  todo: [
+    {
+      text: 'eat some fruit',
+      _id: new ObjectId("642da777ff93785ae9af9522")
+    },
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:22:19 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 12,
+  done: [],
+  todo: [
+    {
+      text: 'take out garbage',
+      _id: new ObjectId("642da9a2fa511c2d7d336834")
+    }
+  ]
+}
+[4/5/2023, 1:22:29 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 13,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:22:44 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'eat more fruit',
+      _id: new ObjectId("642dad822d035b9223928f41")
+    }
+  ],
+  todo: [ { text: 'string', _id: new ObjectId("642dad822d035b9223928f40") } ]
+}
+[4/5/2023, 1:22:52 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 13,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:22:52 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:23:18 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 3,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    },
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/5/2023, 1:23:18 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: [
+    {
+      text: 'fix mongoDb',
+      _id: new ObjectId("642990d950ddef3851899e37")
+    },
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    },
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/5/2023, 1:23:46 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 4,
+  done: [],
+  todo: [
+    {
+      text: 'eat breakfast',
+      _id: new ObjectId("642990df50ddef3851899e3b")
+    },
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/5/2023, 1:23:59 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 5,
+  done: [],
+  todo: [
+    {
+      text: 'Take Neyland for a walk ',
+      _id: new ObjectId("6429acdfc8707a2263e97647")
+    }
+  ]
+}
+[4/5/2023, 1:24:16 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 6,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:24:34 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:24:45 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 13,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:24:45 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:25:06 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 5,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:25:06 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'wash dishes',
+      _id: new ObjectId("6426311165d03a3077a1b3ad")
+    },
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ]
+}
+[4/5/2023, 1:25:31 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 6,
+  done: [],
+  todo: [
+    {
+      text: 'finish homework',
+      _id: new ObjectId("6426311e65d03a3077a1b3b1")
+    },
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:25:40 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 7,
+  done: [],
+  todo: [
+    {
+      text: 'finish tdd',
+      _id: new ObjectId("6426312465d03a3077a1b3b6")
+    },
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:25:50 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 8,
+  done: [],
+  todo: [
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    },
+    {
+      text: 'feed the cat',
+      _id: new ObjectId("64299fd31adc5f2b3e8ba68b")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:26:18 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 9,
+  done: [],
+  todo: [
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:26:35 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    }
+  ]
+}
+[4/5/2023, 1:26:53 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    }
+  ]
+}
+[4/5/2023, 1:27:00 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 9,
+  done: [],
+  todo: [
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:27:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: [
+    {
+      text: 'walk the dog',
+      _id: new ObjectId("64299f711adc5f2b3e8ba67a")
+    }
+  ]
+}
+[4/5/2023, 1:27:21 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:28:04 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 6,
+  done: [],
+  todo: [
+    { text: 'do it ', _id: new ObjectId("6426236a833fba4ac347db3b") },
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:28:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 7,
+  done: [],
+  todo: [
+    { text: 'task', _id: new ObjectId("642625ed833fba4ac347db49") },
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:28:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 8,
+  done: [],
+  todo: [
+    { text: 'asdf', _id: new ObjectId("64262611833fba4ac347db57") },
+    { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:28:34 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 9,
+  done: [],
+  todo: [ { text: 'help', _id: new ObjectId("642627f8833fba4ac347db6d") } ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:28:51 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:29:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 3,
+  done: [],
+  todo: [
+    {
+      text: 'move tasks to done',
+      _id: new ObjectId("64298ed150ddef3851899daa")
+    }
+  ]
+}
+[4/5/2023, 1:29:41 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 4,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:29:56 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:02 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 4,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:02 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:08 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:30:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:14 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:30:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:19 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 6,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:19 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:25 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 13,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:30:32 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 11,
+  done: [
+    {
+      text: 'eat more fruit',
+      _id: new ObjectId("642dad822d035b9223928f41")
+    }
+  ],
+  todo: [ { text: 'string', _id: new ObjectId("642dad822d035b9223928f40") } ]
+}
+[4/5/2023, 1:30:32 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'eat more fruit',
+      _id: new ObjectId("642dad822d035b9223928f41")
+    }
+  ],
+  todo: [ { text: 'string', _id: new ObjectId("642dad822d035b9223928f40") } ]
+}
+[4/5/2023, 1:31:27 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 12,
+  done: [],
+  todo: [ { text: 'string', _id: new ObjectId("642dad822d035b9223928f40") } ]
+}
+[4/5/2023, 1:31:52 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 13,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:29 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 13,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:29 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:35 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 4,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:35 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:41 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:32:41 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:47 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:32:47 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:53 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:32:53 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:59 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 6,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:32:59 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:33:06 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 13,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:33:06 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:46:02 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db3d983fc9ceba346ddd2")
+    }
+  ],
+  done: [
+    {
+      text: 'Test in Swagger',
+      _id: new ObjectId("642db3d983fc9ceba346ddd3")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 14
+}
+[4/5/2023, 1:46:09 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 14,
+  done: [
+    {
+      text: 'Test in Swagger',
+      _id: new ObjectId("642db3d983fc9ceba346ddd3")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db3d983fc9ceba346ddd2")
+    }
+  ]
+}
+[4/5/2023, 1:46:09 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Test in Swagger',
+      _id: new ObjectId("642db3d983fc9ceba346ddd3")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db3d983fc9ceba346ddd2")
+    }
+  ]
+}
+[4/5/2023, 1:46:54 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    }
+  ],
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 15
+}
+[4/5/2023, 1:46:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    }
+  ]
+}
+[4/5/2023, 1:50:40 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    }
+  ]
+}
+[4/5/2023, 1:51:07 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 16,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 1:51:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 1:51:32 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 4,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:51:32 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:52:48 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 5,
+  done: [],
+  todo: [
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db5709716a0830db97cd9")
+    }
+  ]
+}
+[4/5/2023, 1:52:52 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Create red doughnut chart',
+      _id: new ObjectId("642db5749716a0830db97cdd")
+    }
+  ],
+  done: [
+    {
+      text: 'Finish FedRamp merge',
+      _id: new ObjectId("642db5749716a0830db97cde")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 6
+}
+[4/5/2023, 1:52:57 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Finish FedRamp merge',
+      _id: new ObjectId("642db5749716a0830db97cde")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughnut chart',
+      _id: new ObjectId("642db5749716a0830db97cdd")
+    }
+  ]
+}
+[4/5/2023, 1:53:07 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 7,
+  done: [
+    {
+      text: 'Finish FedRamp merge',
+      _id: new ObjectId("642db5749716a0830db97cde")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughnut chart',
+      _id: new ObjectId("642db5749716a0830db97cdd")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db5839716a0830db97ce6")
+    }
+  ]
+}
+[4/5/2023, 1:53:10 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Finish FedRamp merge',
+      _id: new ObjectId("642db5749716a0830db97cde")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughnut chart',
+      _id: new ObjectId("642db5749716a0830db97cdd")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db5839716a0830db97ce6")
+    }
+  ]
+}
+[4/5/2023, 1:53:20 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:53:20 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:54:09 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5c19716a0830db97cf2")
+    }
+  ],
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5c19716a0830db97cf3")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 8
+}
+[4/5/2023, 1:54:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 11,
+  done: [],
+  todo: [
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5c39716a0830db97cf6")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:54:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: [
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5c39716a0830db97cf6")
+    }
+  ]
+}
+[4/5/2023, 1:54:19 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5cb9716a0830db97cfd")
+    }
+  ],
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5cb9716a0830db97cfe")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 9
+}
+[4/5/2023, 1:54:22 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [],
+  todo: [
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5c39716a0830db97cf6")
+    }
+  ]
+}
+[4/5/2023, 1:54:34 PM] server	 employee-route.js - {
+  empId: 1009,
+  firstName: 'Mark',
+  lastName: 'Abel',
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    }
+  ],
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  _id: new ObjectId("641904683831274709d5d03e"),
+  __v: 12
+}
+[4/5/2023, 1:54:59 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    }
+  ]
+}
+[4/5/2023, 1:55:10 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 13,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:55:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ]
+}
+[4/5/2023, 1:55:21 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 16,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 1:55:21 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 1:55:29 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 9,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5cb9716a0830db97cfe")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5cb9716a0830db97cfd")
+    }
+  ]
+}
+[4/5/2023, 1:55:29 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5cb9716a0830db97cfe")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5cb9716a0830db97cfd")
+    }
+  ]
+}
+[4/5/2023, 1:56:21 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 10
+}
+[4/5/2023, 1:56:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ]
+}
+[4/5/2023, 1:56:31 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 11,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db64f9716a0830db97d2d")
+    }
+  ]
+}
+[4/5/2023, 1:56:34 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db64f9716a0830db97d2d")
+    }
+  ]
+}
+[4/5/2023, 1:56:41 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 16,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 1:56:41 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 1:56:49 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 11,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db64f9716a0830db97d2d")
+    }
+  ]
+}
+[4/5/2023, 1:56:49 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db64f9716a0830db97d2d")
+    }
+  ]
+}
+[4/5/2023, 1:56:57 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 13,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:56:57 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ]
+}
+[4/5/2023, 1:57:06 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 11,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db64f9716a0830db97d2d")
+    }
+  ]
+}
+[4/5/2023, 1:57:07 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db64f9716a0830db97d2d")
+    }
+  ]
+}
+[4/5/2023, 1:57:36 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 12,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db64f9716a0830db97d2d")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 1:57:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db64f9716a0830db97d2d")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 1:58:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 13,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 1:58:16 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 1:58:37 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 16,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 1:58:37 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 1:58:49 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 13,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 1:58:49 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 1:58:56 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 13,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 1:58:56 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ]
+}
+[4/5/2023, 1:59:03 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 10,
+  done: [],
+  todo: [],
+  firstName: 'Peter'
+}
+[4/5/2023, 1:59:03 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [],
+  todo: []
+}
+[4/5/2023, 1:59:51 PM] server	 employee-route.js - {
+  empId: 1010,
+  firstName: 'Peter',
+  lastName: 'Abelard',
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    }
+  ],
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  __v: 11
+}
+[4/5/2023, 2:00:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 12,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 2:00:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ]
+}
+[4/5/2023, 2:00:19 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 6,
+  done: [],
+  todo: []
+}
+[4/5/2023, 2:00:20 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [],
+  todo: []
+}
+[4/5/2023, 2:00:58 PM] server	 employee-route.js - {
+  empId: 1011,
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    }
+  ],
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  __v: 7
+}
+[4/5/2023, 2:01:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 8,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642db7699716a0830db97d99")
+    }
+  ]
+}
+[4/5/2023, 2:01:16 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642db7699716a0830db97d99")
+    }
+  ]
+}
+[4/5/2023, 2:01:29 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 13,
+  done: [],
+  todo: []
+}
+[4/5/2023, 2:01:29 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: []
+}
+[4/5/2023, 2:02:32 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db7b89716a0830db97da2")
+    }
+  ],
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db7b89716a0830db97da3")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 14
+}
+[4/5/2023, 2:02:36 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 15,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db7b89716a0830db97da3")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db7b89716a0830db97da2")
+    },
+    {
+      text: 'Submit PR on issue 3463',
+      _id: new ObjectId("642db7bc9716a0830db97da8")
+    }
+  ]
+}
+[4/5/2023, 2:02:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db7b89716a0830db97da3")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db7b89716a0830db97da2")
+    },
+    {
+      text: 'Submit PR on issue 3463',
+      _id: new ObjectId("642db7bc9716a0830db97da8")
+    }
+  ]
+}
+[4/5/2023, 2:02:50 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 16,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 2:02:50 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 2:02:56 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 13,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 2:02:56 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 2:03:04 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 13,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 2:03:04 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ]
+}
+[4/5/2023, 2:03:11 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 12,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 2:03:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ]
+}
+[4/5/2023, 2:03:18 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 13,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 2:03:18 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ]
+}
+[4/5/2023, 2:03:24 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 12,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 2:03:24 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ]
+}
+[4/5/2023, 2:03:30 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 8,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642db7699716a0830db97d99")
+    }
+  ]
+}
+[4/5/2023, 2:03:31 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642db7699716a0830db97d99")
+    }
+  ]
+}
+[4/5/2023, 2:03:38 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 15,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db7b89716a0830db97da3")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db7b89716a0830db97da2")
+    },
+    {
+      text: 'Submit PR on issue 3463',
+      _id: new ObjectId("642db7bc9716a0830db97da8")
+    }
+  ]
+}
+[4/5/2023, 2:03:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db7b89716a0830db97da3")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db7b89716a0830db97da2")
+    },
+    {
+      text: 'Submit PR on issue 3463',
+      _id: new ObjectId("642db7bc9716a0830db97da8")
+    }
+  ]
+}
+[4/5/2023, 2:04:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db7b89716a0830db97da3")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db7b89716a0830db97da2")
+    },
+    {
+      text: 'Submit PR on issue 3463',
+      _id: new ObjectId("642db7bc9716a0830db97da8")
+    }
+  ]
+}
+[4/5/2023, 2:10:13 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db9859716a0830db97df6")
+    }
+  ],
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db9859716a0830db97df7")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 16
+}
+[4/5/2023, 2:10:16 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db9889716a0830db97dfc")
+    }
+  ],
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db9889716a0830db97dfd")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 17
+}
+[4/5/2023, 2:10:22 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db98e9716a0830db97e02")
+    }
+  ],
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db98e9716a0830db97e03")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 18
+}
+[4/5/2023, 2:11:42 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db9de9716a0830db97e0b")
+    }
+  ],
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db9de9716a0830db97e0c")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 19
+}
+[4/5/2023, 2:11:49 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db9de9716a0830db97e0c")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db9de9716a0830db97e0b")
+    }
+  ]
+}
+[4/5/2023, 2:12:30 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 8,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642db7699716a0830db97d99")
+    }
+  ]
+}
+[4/5/2023, 2:12:30 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642db7699716a0830db97d99")
+    }
+  ]
+}
+[4/5/2023, 2:12:39 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 19,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db9de9716a0830db97e0c")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db9de9716a0830db97e0b")
+    }
+  ]
+}
+[4/5/2023, 2:12:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642db9de9716a0830db97e0c")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642db9de9716a0830db97e0b")
+    }
+  ]
+}
+[4/5/2023, 2:13:40 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Run locally',
+      _id: new ObjectId("642dba549716a0830db97e22")
+    }
+  ],
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dba549716a0830db97e23")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 20
+}
+[4/5/2023, 2:14:00 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 20,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dba549716a0830db97e23")
+    }
+  ],
+  todo: [
+    {
+      text: 'Run locally',
+      _id: new ObjectId("642dba549716a0830db97e22")
+    }
+  ]
+}
+[4/5/2023, 2:14:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dba549716a0830db97e23")
+    }
+  ],
+  todo: [
+    {
+      text: 'Run locally',
+      _id: new ObjectId("642dba549716a0830db97e22")
+    }
+  ]
+}
+[4/5/2023, 2:15:54 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642dbada9716a0830db97e2e")
+    }
+  ],
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642dbada9716a0830db97e2f")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 21
+}
+[4/5/2023, 2:16:10 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update documentation',
+      _id: new ObjectId("642dbada9716a0830db97e2f")
+    }
+  ],
+  todo: [
+    {
+      text: 'Implement TestRail',
+      _id: new ObjectId("642dbada9716a0830db97e2e")
+    }
+  ]
+}
+[4/5/2023, 2:16:44 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Run locally',
+      _id: new ObjectId("642dbb0c9716a0830db97e37")
+    }
+  ],
+  done: [
+    {
+      text: 'Set environment variables',
+      _id: new ObjectId("642dbb0c9716a0830db97e38")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 22
+}
+[4/5/2023, 2:16:48 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Set environment variables',
+      _id: new ObjectId("642dbb0c9716a0830db97e38")
+    }
+  ],
+  todo: [
+    {
+      text: 'Run locally',
+      _id: new ObjectId("642dbb0c9716a0830db97e37")
+    }
+  ]
+}
+[4/5/2023, 2:20:32 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Set environment variables',
+      _id: new ObjectId("642dbb0c9716a0830db97e38")
+    }
+  ],
+  todo: [
+    {
+      text: 'Run locally',
+      _id: new ObjectId("642dbb0c9716a0830db97e37")
+    }
+  ]
+}
+[4/5/2023, 2:21:09 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Change environment variables',
+      _id: new ObjectId("642dbc159716a0830db97e43")
+    }
+  ],
+  done: [
+    {
+      text: 'dotnet run for C#',
+      _id: new ObjectId("642dbc159716a0830db97e44")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 23
+}
+[4/5/2023, 2:21:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'dotnet run for C#',
+      _id: new ObjectId("642dbc159716a0830db97e44")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change environment variables',
+      _id: new ObjectId("642dbc159716a0830db97e43")
+    }
+  ]
+}
+[4/5/2023, 2:26:34 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'dotnet run for C#',
+      _id: new ObjectId("642dbc159716a0830db97e44")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change environment variables',
+      _id: new ObjectId("642dbc159716a0830db97e43")
+    }
+  ]
+}
+[4/5/2023, 2:27:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 24,
+  done: [],
+  todo: [
+    {
+      text: 'Change environment variables',
+      _id: new ObjectId("642dbc159716a0830db97e43")
+    }
+  ]
+}
+[4/5/2023, 2:27:02 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'Change environment variables',
+      _id: new ObjectId("642dbc159716a0830db97e43")
+    }
+  ]
+}
+[4/5/2023, 2:34:28 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dbf34942557abae72bab0")
+    }
+  ],
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dbf34942557abae72bab1")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 25
+}
+[4/5/2023, 2:34:35 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dbf34942557abae72bab1")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dbf34942557abae72bab0")
+    }
+  ]
+}
+[4/5/2023, 2:36:12 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dbf34942557abae72bab1")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dbf34942557abae72bab0")
+    }
+  ]
+}
+[4/5/2023, 2:36:22 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dbfa6ee2c2f020db5ac05")
+    }
+  ],
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dbfa6ee2c2f020db5ac06")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 26
+}
+[4/5/2023, 2:36:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dbfa6ee2c2f020db5ac06")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dbfa6ee2c2f020db5ac05")
+    }
+  ]
+}
+[4/5/2023, 2:42:01 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dbfa6ee2c2f020db5ac06")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dbfa6ee2c2f020db5ac05")
+    }
+  ]
+}
+[4/5/2023, 2:45:03 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 27,
+  done: [],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dbfa6ee2c2f020db5ac05")
+    }
+  ]
+}
+[4/5/2023, 2:48:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 28,
+  done: [],
+  todo: []
+}
+[4/5/2023, 2:48:51 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 9,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    }
+  ]
+}
+[4/5/2023, 2:51:35 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: []
+}
+[4/5/2023, 2:51:46 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 16,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 2:51:46 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 2:51:53 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 13,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 2:51:53 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 2:51:59 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 13,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 2:51:59 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ]
+}
+[4/5/2023, 2:52:05 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 12,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 2:52:05 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ]
+}
+[4/5/2023, 2:52:10 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 9,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    }
+  ]
+}
+[4/5/2023, 2:52:10 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    }
+  ]
+}
+[4/5/2023, 2:52:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    }
+  ]
+}
+[4/5/2023, 2:53:33 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 10,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/5/2023, 2:53:47 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/5/2023, 2:53:59 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 28,
+  done: [],
+  todo: []
+}
+[4/5/2023, 2:53:59 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: []
+}
+[4/5/2023, 2:54:35 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    }
+  ],
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 29
+}
+[4/5/2023, 2:54:42 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    }
+  ]
+}
+[4/5/2023, 2:55:06 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 30,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 2:55:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}

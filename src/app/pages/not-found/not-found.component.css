@@ -1,0 +1,62 @@
+/*
+============================================
+; Title: not-found.component.css for nodebucket
+; Author: Chad ONeal
+; Date: 04/05/2023
+; Description: not-found.component.css for nodebucket
+===========================================
+*/
+
+
+body {
+  background-color: rgb(51, 50, 50);
+}
+
+.main {
+  background-color: #fcf8f8;
+  height: 600px;
+  width: 600px;
+  position: relative;
+  margin-left: 32%;
+  top: 15%;
+  border-radius: 10%;
+}
+
+.err {
+  color: #df1919;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11rem;
+  position:absolute;
+  left: 15%;
+  top: 17%;
+}
+
+img {
+  margin-left: 42.5%;
+  margin-top: 11%;
+
+}
+
+.err2 {
+  color: #df1919;
+  font-family: 'Nunito Sans', sans-serif;
+  font-size: 11rem;
+  position:absolute;
+  left: 68%;
+  top: 17%;
+}
+
+.msg {
+    text-align: center;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 1.6rem;
+    position:absolute;
+    left: 16%;
+    top: 45%;
+    width: 75%;
+}
+
+.mat-primary {
+  background-color: #2A623D;
+  color: #AAAAAA;
+}

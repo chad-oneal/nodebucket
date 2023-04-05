@@ -17,6 +17,8 @@ import { AuthLayoutComponent } from './shared/auth-layout/auth-layout.component'
 import { LoginComponent } from './pages/login/login.component';
 import { AuthGuard } from './auth.guard';
 import { ContactComponent } from './pages/contact/contact.component';
+import { AboutComponent } from './pages/about/about.component';
+import { NotFoundComponent } from './pages/not-found/not-found.component';
 
 const routes: Routes = [
   {
@@ -29,12 +31,16 @@ const routes: Routes = [
         canActivate: [AuthGuard]
       },
       {
+        path: 'about',
+        component: AboutComponent,
+        canActivate: [AuthGuard]
+      },
+      {
         path: 'contact',
         component: ContactComponent,
         canActivate: [AuthGuard]
       },
-
-    ]
+  ]
   },
   {
     path: 'session',
@@ -44,9 +50,19 @@ const routes: Routes = [
         path: 'login',
         component: LoginComponent
       },
-    ]
+      {
+        path: 'not-found',
+        component: NotFoundComponent
+      }
+    ],
+  },
+  {
+    path: '**',
+    redirectTo: 'session/not-found'
   }
 ];
+
+
 
 // export class
 @NgModule({

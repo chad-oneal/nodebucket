@@ -1,0 +1,41 @@
+/*
+============================================
+, Title: about.component.css for nodebucket
+; Author: Chad ONeal
+; Date: 04/05/2023
+; Description: css styling for nodebucket
+===========================================
+*/
+
+/*styles the text on page
+*/
+p {
+  font-size: 20px;
+  margin-right: 10%;
+  line-height: 1.2em;
+}
+
+/* styles getting in touch is easy message
+*/
+h1 {
+  margin-top: 7%;
+  margin-left: 30%;
+  font-weight: bold;
+  font-size: 30px;
+  color: #CCA43D;
+}
+
+/* styles node.js logo
+*/
+img {
+  height: 250px;
+  width: 250px;
+  margin-left: 22%;
+  margin-top: 12%;
+}
+
+.img-2 {
+  margin-left: 42%;
+  margin-top: 2%;
+}
+

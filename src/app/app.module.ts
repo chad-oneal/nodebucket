@@ -41,6 +41,8 @@ import { MessagesModule }  from 'primeng/messages';
 import { ContactComponent } from './pages/contact/contact.component';
 import { ToastModule } from 'primeng/toast';
 import { ConfirmDialogModule } from 'primeng/confirmdialog';
+import { AboutComponent } from './pages/about/about.component';
+import { NotFoundComponent } from './pages/not-found/not-found.component';
 
 // module declarations
 @NgModule({
@@ -50,7 +52,9 @@ import { ConfirmDialogModule } from 'primeng/confirmdialog';
     AuthLayoutComponent,
     BaseLayoutComponent,
     LoginComponent,
-    ContactComponent
+    ContactComponent,
+    AboutComponent,
+    NotFoundComponent
   ],
   imports: [
     BrowserModule,
