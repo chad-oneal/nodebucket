@@ -37,13 +37,14 @@ img {
 /* styling for the navbar links */
 .navbar-link {
   font-size: 38px;
-  font-weight: lighter;
+  font-weight: light;
 
 }
 
 /* styling for the main content */
 .main-content {
   padding-left: 30px;
+
 }
 
 /* styling for the footer */
@@ -56,7 +57,7 @@ img {
 /* styling for the footer content */
 .footer-content {
   font-size: 16px;
-  font-weight: lighter;
+  font-weight: light;
   padding-left: 750px;
   letter-spacing: 3px;
 }
@@ -75,4 +76,8 @@ img {
 
 .p-confirmDialog {
   width: 35vw;
+}
+
+.mat-icon {
+  color: #CCA43D;
 }

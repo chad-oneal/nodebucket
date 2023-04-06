@@ -12,6 +12,8 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
+import { _getFocusedElementPierceShadowDom } from '@angular/cdk/platform';
+import { Item } from '../shared/models/item.interface';
 
 // Injectable
 @Injectable({
@@ -35,4 +37,18 @@ export class TaskService {
       text: task
     })
   }
+
+  // Path to updateTask()
+  updateTask(empId: number, todo: Item[], done: Item[]): Observable<any> {
+    return this.http.put(`api/employees/${empId}/tasks`, {
+      todo,
+      done
+    })
 }
+
+// Path to deleteTask()
+  deleteTask(empId: number, taskId: string): Observable<any> {
+    return this.http.delete(`api/employees/${empId}/tasks/${taskId}`)
+  }
+}
+

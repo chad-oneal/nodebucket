@@ -43,6 +43,7 @@ import { ToastModule } from 'primeng/toast';
 import { ConfirmDialogModule } from 'primeng/confirmdialog';
 import { AboutComponent } from './pages/about/about.component';
 import { NotFoundComponent } from './pages/not-found/not-found.component';
+import { DragDropModule } from '@angular/cdk/drag-drop';
 
 // module declarations
 @NgModule({
@@ -75,9 +76,8 @@ import { NotFoundComponent } from './pages/not-found/not-found.component';
     MatInputModule,
     MatFormFieldModule,
     ToastModule,
-    ConfirmDialogModule
-
-
+    ConfirmDialogModule,
+    DragDropModule
 
   ],
   providers: [],

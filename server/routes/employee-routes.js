@@ -325,7 +325,6 @@ router.post('/:empId/tasks', async(req, res, next) => {
  *             required:
  *               - todo
  *               - done
- *               - doing
  *             properties:
  *               todo:
  *                 type: array
@@ -342,7 +341,7 @@ router.post('/:empId/tasks', async(req, res, next) => {
  *                     text:
  *                       type: string
  *     responses:
- *       '201':
+ *       '204':
  *         description: Tasks updated in MongoDB
  *       '400':
  *         description: Bad Request
@@ -398,8 +397,8 @@ router.put('/:empId/tasks', async(req, res, next) => {
       console.log(result)
       debugLogger({filename: myFile, message: result})
       const task = result.todo.pop()
-          const newTaskResponse = new BaseResponse(201, 'Task item updated successfully', {id: task._id})
-          res.status(201).send(newTaskResponse)
+          const newTaskResponse = new BaseResponse(204, 'Task item updated successfully', {id: task._id})
+          res.status(204).send(newTaskResponse)
 
 
     // server error
@@ -431,7 +430,7 @@ router.put('/:empId/tasks', async(req, res, next) => {
  *         scheme:
  *           type: string
  *     responses:
- *       '201':
+ *       '204':
  *         description: Tasks Updated
  *       '400':
  *         description: Bad Request
@@ -491,8 +490,8 @@ router.delete('/:empId/tasks/:taskId', async(req, res, next) => {
       const result = await emp.save()
       debugLogger({filename: myFile, message: result})
       const task = result.todo.pop()
-          const newTaskResponse = new BaseResponse(201, 'Task item deleted successfully', {id: task._id})
-          res.status(201).send(newTaskResponse)
+          const newTaskResponse = new BaseResponse(204, 'Task item deleted successfully', {id: task._id})
+          res.status(204).send(newTaskResponse)
 
 
     // server error handling

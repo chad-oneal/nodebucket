@@ -9,7 +9,7 @@
 
 
 body {
-  background-color: rgb(51, 50, 50);
+  background-color: #2A623D;
 }
 
 .main {
@@ -23,7 +23,7 @@ body {
 }
 
 .err {
-  color: #df1919;
+  color: #CCA43D;
   font-family: 'Nunito Sans', sans-serif;
   font-size: 11rem;
   position:absolute;
@@ -38,7 +38,7 @@ img {
 }
 
 .err2 {
-  color: #df1919;
+  color: #CCA43D;
   font-family: 'Nunito Sans', sans-serif;
   font-size: 11rem;
   position:absolute;

@@ -4930,3 +4930,2841 @@
     }
   ]
 }
+[4/5/2023, 4:24:55 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:25:04 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 16,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 4:25:04 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 4:25:13 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 13,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 4:25:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 4:25:21 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 13,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 4:25:21 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ]
+}
+[4/5/2023, 4:25:30 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 12,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 4:25:30 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ]
+}
+[4/5/2023, 4:25:43 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 10,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/5/2023, 4:25:43 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/5/2023, 4:25:51 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 30,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:25:51 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:26:57 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:27:41 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:27:46 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:31:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:42:17 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 30,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:42:17 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:42:23 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:44:02 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:44:18 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:45:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:48:05 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:50:27 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 4:50:36 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d11")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642dc3eb5cd2fcd30d222d10")
+    },
+    {
+      text: 'Request funding for TPS reports',
+      _id: new ObjectId("642dc40a5cd2fcd30d222d19")
+    }
+  ]
+}
+[4/5/2023, 6:05:25 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 13,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:05:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:06:55 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:10:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:11:02 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:13:01 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:13:32 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:14:45 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:14:59 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:15:04 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:15:05 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:15:07 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:15:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:15:10 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:15:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:15:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:15:22 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:16:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:16:30 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:16:33 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:17:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:17:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:17:26 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:17:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:17:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:20:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:20:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:21:29 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:21:53 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:21:59 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:22:20 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:22:44 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:23:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:23:32 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:23:34 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:23:50 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:24:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:24:17 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:24:18 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:25:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:25:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:25:19 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:25:20 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:26:48 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:26:51 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:26:52 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:27:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:27:40 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:27:42 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:28:09 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:28:17 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:28:19 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:28:20 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:29:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:29:19 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:29:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:42:54 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:42:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:43:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:43:02 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:44:40 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:44:42 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:44:46 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 6:44:57 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:02:05 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:02:07 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:02:09 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:02:24 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:02:26 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:17:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:17:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:51:50 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 7:52:12 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 8:15:36 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 8:15:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 8:15:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 8:15:52 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 8:42:54 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 8:43:58 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Update Db records',
+      _id: new ObjectId("642e15ce0920207f9c02287f")
+    }
+  ],
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e15ce0920207f9c022880")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 31
+}
+[4/5/2023, 8:44:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 8:44:22 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 31,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e15ce0920207f9c022880")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update Db records',
+      _id: new ObjectId("642e15ce0920207f9c02287f")
+    }
+  ]
+}
+[4/5/2023, 8:44:22 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e15ce0920207f9c022880")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update Db records',
+      _id: new ObjectId("642e15ce0920207f9c02287f")
+    }
+  ]
+}
+[4/5/2023, 8:50:27 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e15ce0920207f9c022880")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update Db records',
+      _id: new ObjectId("642e15ce0920207f9c02287f")
+    }
+  ]
+}
+[4/5/2023, 8:51:55 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e15ce0920207f9c022880")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update Db records',
+      _id: new ObjectId("642e15ce0920207f9c02287f")
+    }
+  ]
+}
+[4/5/2023, 8:53:24 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e15ce0920207f9c022880")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update Db records',
+      _id: new ObjectId("642e15ce0920207f9c02287f")
+    }
+  ]
+}
+[4/5/2023, 8:57:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e15ce0920207f9c022880")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update Db records',
+      _id: new ObjectId("642e15ce0920207f9c02287f")
+    }
+  ]
+}
+[4/5/2023, 8:58:14 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e15ce0920207f9c022880")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update Db records',
+      _id: new ObjectId("642e15ce0920207f9c02287f")
+    }
+  ]
+}
+[4/5/2023, 8:59:06 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e195af10c74818a03bcf7")
+    }
+  ],
+  done: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e195af10c74818a03bcf8")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 32
+}
+[4/5/2023, 8:59:15 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e195af10c74818a03bcf8")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e195af10c74818a03bcf7")
+    }
+  ]
+}
+[4/5/2023, 9:03:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e195af10c74818a03bcf8")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e195af10c74818a03bcf7")
+    }
+  ]
+}
+[4/5/2023, 9:05:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e195af10c74818a03bcf8")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e195af10c74818a03bcf7")
+    }
+  ]
+}
+[4/5/2023, 9:11:20 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e1c38f10c74818a03bd06")
+    }
+  ],
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1c38f10c74818a03bd07")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 33
+}
+[4/5/2023, 9:11:49 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1c38f10c74818a03bd07")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e1c38f10c74818a03bd06")
+    }
+  ]
+}
+[4/5/2023, 9:15:52 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1c38f10c74818a03bd07")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e1c38f10c74818a03bd06")
+    }
+  ]
+}
+[4/5/2023, 9:16:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1c38f10c74818a03bd07")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e1c38f10c74818a03bd06")
+    }
+  ]
+}
+[4/5/2023, 9:18:26 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 34,
+  done: [],
+  todo: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e1c38f10c74818a03bd06")
+    }
+  ]
+}
+[4/5/2023, 9:18:34 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e1c38f10c74818a03bd06")
+    }
+  ]
+}
+[4/5/2023, 9:22:02 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 34,
+  done: [],
+  todo: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e1c38f10c74818a03bd06")
+    }
+  ]
+}
+[4/5/2023, 9:22:02 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [],
+  todo: [
+    {
+      text: 'Update DB records',
+      _id: new ObjectId("642e1c38f10c74818a03bd06")
+    }
+  ]
+}
+[4/5/2023, 9:23:01 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 35
+}
+[4/5/2023, 9:23:13 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ]
+}
+[4/5/2023, 9:23:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 36,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/5/2023, 9:24:01 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/5/2023, 9:24:08 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 16,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 9:24:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Write test cases',
+      _id: new ObjectId("642db40e83fc9ceba346dddf")
+    }
+  ],
+  todo: [
+    {
+      text: 'Make Modal Disappear',
+      _id: new ObjectId("642db40e83fc9ceba346ddde")
+    },
+    {
+      text: 'Update TDD',
+      _id: new ObjectId("642db50b9716a0830db97cd0")
+    }
+  ]
+}
+[4/5/2023, 9:24:17 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 13,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 9:24:17 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ]
+}
+[4/5/2023, 9:24:25 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  lastName: 'Abel',
+  __v: 13,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ],
+  firstName: 'Mark'
+}
+[4/5/2023, 9:24:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904683831274709d5d03e"),
+  empId: 1009,
+  done: [
+    {
+      text: 'Unit testing',
+      _id: new ObjectId("642db5d99716a0830db97d05")
+    }
+  ],
+  todo: [
+    {
+      text: 'Perform smoke test',
+      _id: new ObjectId("642db5d99716a0830db97d04")
+    },
+    {
+      text: 'Create shared service',
+      _id: new ObjectId("642db5fe9716a0830db97d0d")
+    }
+  ]
+}
+[4/5/2023, 9:24:33 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  lastName: 'Abelard',
+  __v: 12,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ],
+  firstName: 'Peter'
+}
+[4/5/2023, 9:24:33 PM] server	 employee-route.js - {
+  _id: new ObjectId("641904ac3831274709d5d03f"),
+  empId: 1010,
+  done: [ { text: 'ORD', _id: new ObjectId("642db7179716a0830db97d85") } ],
+  todo: [
+    {
+      text: 'Soap UI tests',
+      _id: new ObjectId("642db7179716a0830db97d84")
+    },
+    {
+      text: 'Move images on about page',
+      _id: new ObjectId("642db7289716a0830db97d8a")
+    }
+  ]
+}
+[4/5/2023, 9:24:41 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  firstName: 'Lasse',
+  lastName: 'Aberg',
+  empId: 1011,
+  __v: 10,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/5/2023, 9:24:42 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/5/2023, 9:24:50 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 36,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/5/2023, 9:24:50 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/5/2023, 9:24:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/5/2023, 9:31:03 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/5/2023, 9:31:19 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/5/2023, 9:31:21 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
