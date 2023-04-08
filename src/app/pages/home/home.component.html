@@ -51,34 +51,42 @@
 
   <!--to-do and done columns-->
   <div fxFlex>
-    <div fxLayout="row" fxLayoutGap="15px" class="task-container">
 
-      <!-- first row -->
+    <div fxLayout="row" fxLayoutGap="15px" class="task-container" style="margin-top: 10px;">
+
+      <!-- first row to-do column-->
       <div fxFlex>
         <mat-card class="mat-elevation-z0">
           <mat-card-title>ToDo</mat-card-title>
 
           <mat-card-content>
-            <!-- todo -->
-            <div fxLayout="column" fxLayoutGap="15px" class="task-column mat-elevation-z3">
 
-              <mat-card *ngFor="let item of todo">
-                <mat-card-content>
-                  <div fxLayout="row">
-                    <!-- todo task text -->
-                    <div fxFlex>{{ item.text }}</div>
+            <!-- todo -->
+            <div class="task-column">
+              <div *ngFor="let item of todo">
+                <mat-card class="mat-elevation-z0 task-card">
+                  <mat-card-content>
+                    <div fxLayout="row">
+
+                      <div fxFlex>
+                        {{ item.text }}
+                      </div>
+
+                      <!--add delete icon here-->
                     </div>
                 </mat-card-content>
-              </mat-card>
 
+                </mat-card>
 
+              </div>
             </div>
+
           </mat-card-content>
         </mat-card>
       </div>
       <!-- end of first row -->
 
-      <!-- second row -->
+      <!-- second row done column-->
       <div fxFlex>
         <mat-card class="mat-elevation-z0">
           <mat-card-title>Done</mat-card-title>
