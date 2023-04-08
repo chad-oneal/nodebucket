@@ -34,6 +34,15 @@
   margin-left: 27%;
 }
 
+.task-column {
+  border: 1px solid #ccc;
+  min-height: 68px;
+  background: white;
+  border-radius: 4px;
+  overflow: hidden;
+  display: block;
+}
+
 .task-add {
   width: 36px;
   height: 36px;
