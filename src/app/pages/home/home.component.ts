@@ -131,6 +131,7 @@ export class HomeComponent implements OnInit {
     });
   }
 
+  // delete task
   deleteTask(taskId: string) {
     const dialogRef = this.dialog.open(ConfirmDialogComponent, {
       data: {
@@ -143,13 +144,28 @@ export class HomeComponent implements OnInit {
     dialogRef.afterClosed().subscribe({
       next: (result) => {
         if (result === 'confirm') {
-          this.serverMessages = [
-            {
-              severity: 'success',
-              summary: 'Success',
-              detail: 'Task deleted successfully',
-            }
-          ]
+          this.taskService.deleteTask(this.empId, taskId).subscribe({
+            next: (res) => {
+              this.todo = this.todo.filter(task => task._id !== taskId)
+              this.done = this.done.filter(task => task._id !== taskId)
+              this.serverMessages = [
+                {
+                  severity: 'success',
+                  summary: 'Success',
+                  detail: 'Task deleted successfully',
+                }
+              ]
+            },
+            error: (err) => {
+              this.serverMessages = [
+                {
+                  severity: 'error',
+                  summary: 'Error',
+                  detail: err.message,
+                },
+              ]
+            },
+          })
         } else {
           this.serverMessages = [
             {

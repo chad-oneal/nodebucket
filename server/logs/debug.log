@@ -8034,3 +8034,300 @@
     }
   ]
 }
+[4/7/2023, 10:17:41 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/8/2023, 8:35:24 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/8/2023, 8:35:36 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/8/2023, 8:36:35 AM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 36,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 8:36:35 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 9:16:03 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 9:16:45 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 37,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'test task',
+      _id: new ObjectId("6431693d88cc45a2cedfa607")
+    }
+  ]
+}
+[4/8/2023, 9:16:53 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 38,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'test task',
+      _id: new ObjectId("6431693d88cc45a2cedfa607")
+    },
+    {
+      text: 'test task 2',
+      _id: new ObjectId("6431694588cc45a2cedfa60e")
+    }
+  ]
+}
+[4/8/2023, 9:17:04 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 39,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'test task',
+      _id: new ObjectId("6431693d88cc45a2cedfa607")
+    },
+    {
+      text: 'test task 2',
+      _id: new ObjectId("6431694588cc45a2cedfa60e")
+    },
+    {
+      text: 'test task 3',
+      _id: new ObjectId("6431695088cc45a2cedfa616")
+    }
+  ]
+}
+[4/8/2023, 9:17:20 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 40,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'test task 2',
+      _id: new ObjectId("6431694588cc45a2cedfa60e")
+    },
+    {
+      text: 'test task 3',
+      _id: new ObjectId("6431695088cc45a2cedfa616")
+    }
+  ]
+}
+[4/8/2023, 9:17:41 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 41,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'test task 3',
+      _id: new ObjectId("6431695088cc45a2cedfa616")
+    }
+  ]
+}
+[4/8/2023, 9:17:44 AM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 42,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
