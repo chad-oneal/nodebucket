@@ -15,6 +15,9 @@ import { FormBuilder, FormGroup, Validators } from '@angular/forms';
 import { Message } from 'primeng/api/message';
 import { Employee } from 'src/app/shared/models/employee.interface';
 import { Item } from 'src/app/shared/models/item.interface';
+import { MatDialog } from '@angular/material/dialog';
+import { ConfirmDialogComponent } from 'src/app/shared/confirm-dialog/confirm-dialog.component';
+
 
 // Home component
 @Component({
@@ -47,7 +50,8 @@ export class HomeComponent implements OnInit {
   constructor(
     private taskService: TaskService,
     private cookieService: CookieService,
-    private fb: FormBuilder
+    private fb: FormBuilder,
+    private dialog: MatDialog
   ) {
     this.empId = parseInt(this.cookieService.get('session_user'), 10);
     this.employee = {} as Employee;
@@ -127,4 +131,12 @@ export class HomeComponent implements OnInit {
     });
   }
 
+  deleteTask(taskId: string) {
+    const dialogRef = this.dialog.open(ConfirmDialogComponent, {
+      data: {
+        header: 'Delete Task Dialog',
+        body: 'Are you sure you want to delete this task?',
+      }
+    })
+  }
 }
