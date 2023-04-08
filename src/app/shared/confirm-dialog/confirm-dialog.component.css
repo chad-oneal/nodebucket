@@ -7,3 +7,9 @@
 ; Description: confirm-dialog.component.css for nodebucket
 ===========================================
 */
+
+/* styling for the dialog warning */
+.dialog-warning {
+  color: red;
+  font-weight: bold;
+}
