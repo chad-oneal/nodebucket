@@ -9,7 +9,9 @@
 */
 
 // import statement
-import { Component, OnInit } from '@angular/core';
+import { Component, Inject, OnInit } from '@angular/core';
+import { MatDialog, MAT_DIALOG_DATA } from '@angular/material/dialog';
+import { DialogData } from '../models/dialog-data.interface';
 
 // tells which component to use
 @Component({
@@ -20,8 +22,11 @@ import { Component, OnInit } from '@angular/core';
 
 // Export class
 export class ConfirmDialogComponent implements OnInit {
+  dialogData: DialogData
 
-  constructor() { }
+  constructor(@Inject(MAT_DIALOG_DATA) public data: DialogData) {
+    this.dialogData =data
+  }
 
   ngOnInit(): void {
   }
