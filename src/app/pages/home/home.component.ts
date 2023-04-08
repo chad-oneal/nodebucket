@@ -136,6 +136,17 @@ export class HomeComponent implements OnInit {
       data: {
         header: 'Delete Task Dialog',
         body: 'Are you sure you want to delete this task?',
+      },
+      disableClose: true,
+    })
+
+    dialogRef.afterClosed().subscribe({
+      next: (result) => {
+        if (result === 'confirm') {
+          alert('Delete confirmed')
+        } else {
+          alert('Delete cancelled')
+        }
       }
     })
   }
