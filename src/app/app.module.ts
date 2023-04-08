@@ -44,6 +44,7 @@ import { ConfirmDialogModule } from 'primeng/confirmdialog';
 import { AboutComponent } from './pages/about/about.component';
 import { NotFoundComponent } from './pages/not-found/not-found.component';
 import { DragDropModule } from '@angular/cdk/drag-drop';
+import { ConfirmDialogComponent } from './shared/confirm-dialog/confirm-dialog.component';
 
 // module declarations
 @NgModule({
@@ -55,7 +56,8 @@ import { DragDropModule } from '@angular/cdk/drag-drop';
     LoginComponent,
     ContactComponent,
     AboutComponent,
-    NotFoundComponent
+    NotFoundComponent,
+    ConfirmDialogComponent
   ],
   imports: [
     BrowserModule,
