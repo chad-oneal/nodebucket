@@ -49,19 +49,35 @@ const taskSchema = {
 // validation schema
 const tasksSchema = {
   type: 'object',
-  required: ['todo', 'done',],
+  required: ['todo', 'done'],
   additionalProperties: false,
   properties: {
     todo: {
       type: 'array',
       additionalProperties: false,
-      items: taskSchema
+      items: {
+        type: 'object',
+        properties: {
+          text: {type: 'string'},
+          _id: {type: 'string'}
+        },
+        required: ['text', '_id'],
+        additionalProperties: false
+      }
     },
     done: {
       type: 'array',
       additionalProperties: false,
-      items: taskSchema
-    },
+      items: {
+        type: 'object',
+        properties: {
+          text: {type: 'string'},
+          _id: {type: 'string'}
+        },
+        required: ['text', '_id'],
+        additionalProperties: false
+      }
+    }
   }
 }
 
@@ -302,15 +318,15 @@ router.post('/:empId/tasks', async(req, res, next) => {
  * updateTask
  * @openapi
  *
- * /api/employees/{empId}/tasks:
+ * /api/employees/{id}/tasks:
  *   put:
  *     tags:
  *       - Employees
  *     description: Updates tasks by empId
  *     summary: updateTask
- *     operationId: updateTasks
+ *     operationId: updateTask
  *     parameters:
- *       - name: empId
+ *       - name: id
  *         in: path
  *         required: true
  *         schema:
@@ -357,12 +373,17 @@ router.post('/:empId/tasks', async(req, res, next) => {
 router.put('/:empId/tasks', async(req, res, next) => {
 
   let empId = req.params.empId
-  const err = checkNum(empId)
+  empId = parseInt(empId, 10);
 
   // attempts to retrieve the empId from mongoDB
-  if (err === false) {
-
-    // try catch block
+  if(isNaN(empId)) {
+    const err = new Error('Bad Request');
+    err.status = 400;
+    console.error('id could not be parsed: ', empId);
+    errorLogger({filename: myFile, message: `empId could not be parse ${err.message}`});
+    next(createError(400));
+    return;
+  }
     try {
       let emp = await Employee.findOne({'empId': empId})
 
@@ -396,22 +417,20 @@ router.put('/:empId/tasks', async(req, res, next) => {
       const result = await emp.save()
       console.log(result)
       debugLogger({filename: myFile, message: result})
-      const task = result.todo.pop()
-          const newTaskResponse = new BaseResponse(204, 'Task item updated successfully', {id: task._id})
-          res.status(204).send(newTaskResponse)
+      res.status(204).send();
 
 
     // server error
     } catch (err) {
-      next(err)
+      next(err);
     }
-  }
-})
+
+});
 
 /**
  * deleteTask
  * @openapi
- * /api/employees/{empId}/tasks/{taskId}:
+ * /api/employees/{id}/tasks/{taskId}:
  *   delete:
  *     tags:
  *       - Employees
@@ -419,7 +438,7 @@ router.put('/:empId/tasks', async(req, res, next) => {
  *     summary: deleteTask
  *     operationId: deleteTask
  *     parameters:
- *       - name: empId
+ *       - name: id
  *         in: path
  *         required: true
  *         scheme:
@@ -443,17 +462,20 @@ router.put('/:empId/tasks', async(req, res, next) => {
  */
 
 // deleteTask
-router.delete('/:empId/tasks/:taskId', async(req, res, next) => {
+router.delete('/:id/tasks/:taskId', async(req, res, next) => {
 
   let taskId = req.params.taskId
-  let empId = req.params.empId
+  let empId = req.params.id
 
-  const err = checkNum(empId)
-
-  // attempts to retrieve the empId from mongoDB
-  if (err === false) {
-
-    // try catch block
+  empId = parseInt(empId, 10);
+  if(isNaN(empId)) {
+    const err = new Error('Input must be number');
+    err.status = 400;
+    console.error('req.params.id must be a number: ', empId);
+    errorLogger({filename: myFile, message: `req.params.id must be a number: ${empId}`});
+    next(err);
+    return;
+  }
     try {
       let emp = await( Employee.findOne({'empId': empId}))
 
@@ -489,17 +511,15 @@ router.delete('/:empId/tasks/:taskId', async(req, res, next) => {
       // task deleted successfully
       const result = await emp.save()
       debugLogger({filename: myFile, message: result})
-      const task = result.todo.pop()
-          const newTaskResponse = new BaseResponse(204, 'Task item deleted successfully', {id: task._id})
-          res.status(204).send(newTaskResponse)
+      res.status(204).send();
 
 
     // server error handling
     } catch (err) {
       next(err)
     }
-  }
-})
+
+});
 
 // Export statement
 module.exports = router;

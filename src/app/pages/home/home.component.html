@@ -19,6 +19,12 @@
 
   <!--task container-->
   <div fxFlex>
+
+    <!--server messages-->
+    <div class="task-container">
+      <p-messages [(value)]="serverMessages" [enableService]= "false"></p-messages>
+    </div>
+
     <div class="task-container mat-elevation-z4" fxLayout="column">
       <mat-card>
         <form [formGroup]="taskForm" (ngSubmit)="createTask(); taskForm.reset()">
@@ -46,79 +52,98 @@
       </mat-card>
     </div>
   </div>
-  <br /><br />
+  <br><br>
 
-
-  <!--to-do and done columns-->
   <div fxFlex>
 
     <div fxLayout="row" fxLayoutGap="15px" class="task-container" style="margin-top: 10px;">
 
-      <!-- first row to-do column-->
+      <!-- To Do task column -->
       <div fxFlex>
         <mat-card class="mat-elevation-z0">
-          <mat-card-title>ToDo</mat-card-title>
-
+          <mat-card-title>
+            To Do
+          </mat-card-title>
           <mat-card-content>
-
-            <!-- todo -->
-            <div class="task-column">
-              <div *ngFor="let item of todo">
-                <mat-card class="mat-elevation-z0 task-card">
+            <!-- connect todo and done columns for drag and drop -->
+            <div
+              class="task-column"
+              fxLayout="column"
+              fxLayoutGap="10px"
+              cdkDropList
+              #todoList="cdkDropList"
+              [cdkDropListData]="todo"
+              [cdkDropListConnectedTo]="[doneList]"
+              (cdkDropListDropped)="drop($event)"
+            >
+              <div *ngFor="let item of todo" cdkDrag>
+                <mat-card class="mat-elevation-z1 task-card">
                   <mat-card-content>
                     <div fxLayout="row">
-
                       <div fxFlex>
-                        {{ item.text }}
+                        {{item.text}}
                       </div>
 
-                      <!--add delete icon here-->
-                      <div fxFlex fxLayoutAlign="end" style="margin-top: -7px;">
+                      <!-- delete icon -->
+                      <div fxFlex fxLayoutAlign="end" style="margin-top: -7px">
+                        <button mat-icon-button (click)="deleteTask(item._id)">
+                          <mat-icon color="warn">delete</mat-icon>
+                        </button>
+                      </div>
+
+                    </div>
+                  </mat-card-content>
+                </mat-card>
+              </div>
+            </div>
+          </mat-card-content>
+        </mat-card>
+      </div>
+
+      <!-- Done task column -->
+      <div fxFlex>
+        <mat-card class="mat-elevation-z0">
+          <mat-card-title>
+            Done
+          </mat-card-title>
+          <mat-card-content>
+            <!-- connect todo and done columns for drag and drop -->
+            <div class="task-column"
+              fxLayout="column"
+              fxLayoutGap="10px"
+              cdkDropList
+              #doneList="cdkDropList"
+              [cdkDropListData]="done"
+              [cdkDropListConnectedTo]="[todoList]"
+              (cdkDropListDropped)="drop($event)"
+            >
+              <div *ngFor="let item of done" cdkDrag>
+                <mat-card class="mat-elevation-z1 task-card">
+                  <mat-card-content>
+                    <div fxLayout="row">
+                      <div fxFlex>
+                        {{item.text}}
+                      </div>
+                      <!-- delete icon -->
+                      <div fxFlex fxLayoutAlign="end" style="margin-top: -7px">
                         <button mat-icon-button (click)="deleteTask(item._id)">
                           <mat-icon color="warn">delete</mat-icon>
                         </button>
                       </div>
                     </div>
-                </mat-card-content>
-
+                  </mat-card-content>
                 </mat-card>
-
               </div>
             </div>
-
-          </mat-card-content>
-        </mat-card>
-      </div>
-      <!-- end of first row -->
-
-      <!-- second row done column-->
-      <div fxFlex>
-        <mat-card class="mat-elevation-z0">
-          <mat-card-title>Done</mat-card-title>
-
-          <mat-card-content>
-            <!-- done -->
-            <div fxLayout="column" fxLayoutGap="10px" class="task-column mat-elevation-z3">
-
-              <mat-card *ngFor="let item of done" cdkDrag class="task-card mat-elevation-z1">
-                <mat-card-content>
-                  <div fxLayout="row">
-                    <!-- todo task text -->
-                    <div fxFlex>{{ item.text }}</div>
-
-                  </div>
-                </mat-card-content>
-                </mat-card>
-
-            </div>
           </mat-card-content>
         </mat-card>
       </div>
 
-
+    </div>
     </div>
   </div>
 
 
-</div>
+
+
 

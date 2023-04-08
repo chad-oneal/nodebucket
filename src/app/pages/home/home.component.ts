@@ -17,6 +17,7 @@ import { Employee } from 'src/app/shared/models/employee.interface';
 import { Item } from 'src/app/shared/models/item.interface';
 import { MatDialog } from '@angular/material/dialog';
 import { ConfirmDialogComponent } from 'src/app/shared/confirm-dialog/confirm-dialog.component';
+import { CdkDragDrop, moveItemInArray, transferArrayItem } from '@angular/cdk/drag-drop';
 
 
 // Home component
@@ -29,7 +30,6 @@ export class HomeComponent implements OnInit {
   serverMessages: Message[] = [];
   employee: Employee;
   todo: Item[];
-  //doing: Item[];
   done: Item[];
   empId: number;
   newTaskId: string;
@@ -56,7 +56,6 @@ export class HomeComponent implements OnInit {
     this.empId = parseInt(this.cookieService.get('session_user'), 10);
     this.employee = {} as Employee;
     this.todo = [];
-    //this.doing = [];
     this.done = [];
     this.newTaskId = '';
     this.newTaskMessage = '';
@@ -79,7 +78,6 @@ export class HomeComponent implements OnInit {
       },
       complete: () => {
         this.todo = this.employee.todo;
-        //this.doing = this.employee.doing;
         this.done = this.employee.done;
 
         console.log('--ToDo and Done Data--');
@@ -131,6 +129,7 @@ export class HomeComponent implements OnInit {
     });
   }
 
+  // delete task
   deleteTask(taskId: string) {
     const dialogRef = this.dialog.open(ConfirmDialogComponent, {
       data: {
@@ -143,11 +142,73 @@ export class HomeComponent implements OnInit {
     dialogRef.afterClosed().subscribe({
       next: (result) => {
         if (result === 'confirm') {
-          alert('Delete confirmed')
+          this.taskService.deleteTask(this.empId, taskId).subscribe({
+            next: (res) => {
+              this.todo = this.todo.filter(task => task._id !== taskId)
+              this.done = this.done.filter(task => task._id !== taskId)
+              this.serverMessages = [
+                {
+                  severity: 'success',
+                  summary: 'Success',
+                  detail: 'Task deleted successfully',
+                }
+              ]
+            },
+            error: (err) => {
+              this.serverMessages = [
+                {
+                  severity: 'error',
+                  summary: 'Error',
+                  detail: err.message,
+                },
+              ]
+            },
+          })
         } else {
-          alert('Delete cancelled')
+          this.serverMessages = [
+            {
+              severity: 'info',
+              summary: 'Info',
+              detail: 'Delete cancelled',
+            }
+          ]
         }
       }
     })
+   }
+   updateTaskList(empId: number, todo: Item[], done: Item[]) {
+    this.taskService.updateTask(empId, todo, done).subscribe({
+      next: () => {
+        this.todo = todo;
+        this.done = done;
+      },
+      error: (err) => {
+        this.serverMessages = [
+          {
+            severity: 'error',
+            summary: 'Error',
+            detail: err.message,
+          },
+        ]
+      }
+    })
+   }
+
+   drop(event: CdkDragDrop<any[]>) {
+    if(event.previousContainer === event.container) {
+      moveItemInArray(event.container.data, event.previousIndex, event.currentIndex);
+      console.log('Reordered tasks in the existing list');
+      this.updateTaskList(this.empId, this.todo, this.done);
+    }
+    else {
+      transferArrayItem(
+        event.previousContainer.data,
+        event.container.data,
+        event.previousIndex,
+        event.currentIndex
+      );
+      console.log('Moved task item to a new container');
+      this.updateTaskList(this.empId, this.todo, this.done);
+    }
   }
 }
