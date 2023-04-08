@@ -33,6 +33,8 @@ import { MatMenuModule } from '@angular/material/menu';
 import { MatToolbarModule } from '@angular/material/toolbar';
 import { MatButtonModule } from '@angular/material/button';
 import { MatIconModule } from '@angular/material/icon';
+import { MatDialogModule } from '@angular/material/dialog';
+import { DragDropModule } from '@angular/cdk/drag-drop';
 
 // primeNG imports
 import { MatDividerModule } from '@angular/material/divider';
@@ -43,7 +45,6 @@ import { ToastModule } from 'primeng/toast';
 import { ConfirmDialogModule } from 'primeng/confirmdialog';
 import { AboutComponent } from './pages/about/about.component';
 import { NotFoundComponent } from './pages/not-found/not-found.component';
-import { DragDropModule } from '@angular/cdk/drag-drop';
 import { ConfirmDialogComponent } from './shared/confirm-dialog/confirm-dialog.component';
 
 // module declarations
@@ -79,7 +80,8 @@ import { ConfirmDialogComponent } from './shared/confirm-dialog/confirm-dialog.c
     MatFormFieldModule,
     ToastModule,
     ConfirmDialogModule,
-    DragDropModule
+    DragDropModule,
+    MatDialogModule
 
   ],
   providers: [],
