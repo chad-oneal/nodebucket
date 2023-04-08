@@ -12,7 +12,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable } from 'rxjs';
-import { _getFocusedElementPierceShadowDom } from '@angular/cdk/platform';
 import { Item } from '../shared/models/item.interface';
 
 // Injectable
