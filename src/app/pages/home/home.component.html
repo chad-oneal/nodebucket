@@ -19,6 +19,12 @@
 
   <!--task container-->
   <div fxFlex>
+
+    <!--server messages-->
+    <div class="task-container">
+      <p-messages [(value)]="serverMessages" [enableService]= "false"></p-messages>
+    </div>
+
     <div class="task-container mat-elevation-z4" fxLayout="column">
       <mat-card>
         <form [formGroup]="taskForm" (ngSubmit)="createTask(); taskForm.reset()">
@@ -64,7 +70,7 @@
             <!-- todo -->
             <div class="task-column">
               <div *ngFor="let item of todo">
-                <mat-card class="mat-elevation-z0 task-card">
+                <mat-card class="mat-elevation-z3 task-card">
                   <mat-card-content>
                     <div fxLayout="row">
 

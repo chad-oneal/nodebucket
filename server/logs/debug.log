@@ -7894,3 +7894,123 @@
     }
   ]
 }
+[4/7/2023, 9:50:36 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/7/2023, 9:51:09 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/7/2023, 9:51:58 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/7/2023, 10:03:23 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/7/2023, 10:08:06 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}
+[4/7/2023, 10:11:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3721f688e09fbfccc7af"),
+  empId: 1011,
+  done: [
+    {
+      text: 'Code review with Adam',
+      _id: new ObjectId("642db75a9716a0830db97d94")
+    }
+  ],
+  todo: [
+    {
+      text: 'Submit files to Geoff',
+      _id: new ObjectId("642db75a9716a0830db97d93")
+    },
+    {
+      text: '1:1 with Travis',
+      _id: new ObjectId("642dc3ad5cd2fcd30d222d07")
+    }
+  ]
+}

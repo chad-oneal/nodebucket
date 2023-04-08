@@ -143,11 +143,23 @@ export class HomeComponent implements OnInit {
     dialogRef.afterClosed().subscribe({
       next: (result) => {
         if (result === 'confirm') {
-          alert('Delete confirmed')
+          this.serverMessages = [
+            {
+              severity: 'success',
+              summary: 'Success',
+              detail: 'Task deleted successfully',
+            }
+          ]
         } else {
-          alert('Delete cancelled')
+          this.serverMessages = [
+            {
+              severity: 'info',
+              summary: 'Info',
+              detail: 'Delete cancelled',
+            }
+          ]
         }
       }
     })
-  }
+   }
 }
