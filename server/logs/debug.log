@@ -16469,3 +16469,1837 @@
   __v: 169
 }
 >>>>>>> dev
+[4/8/2023, 1:57:54 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ]
+}
+[4/8/2023, 1:59:08 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 170,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ab6c3f102122c30ec327") }
+  ]
+}
+[4/8/2023, 2:00:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 171,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ]
+}
+[4/8/2023, 2:01:03 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 172,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'tst 1', _id: new ObjectId("6431abde3f102122c30ec334") }
+  ]
+}
+[4/8/2023, 2:01:05 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 173,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ]
+}
+[4/8/2023, 2:01:09 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 174,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431abe43f102122c30ec341") }
+  ]
+}
+[4/8/2023, 2:02:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 175,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ]
+}
+[4/8/2023, 2:02:41 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 176
+}
+[4/8/2023, 2:03:22 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 177
+}
+[4/8/2023, 2:03:23 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 177
+}
+[4/8/2023, 2:03:24 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 178
+}
+[4/8/2023, 2:03:49 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ],
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 179
+}
+[4/8/2023, 2:03:53 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 180,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ]
+}
+[4/8/2023, 2:16:15 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ]
+}
+[4/8/2023, 2:16:24 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  __v: 22,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ]
+}
+[4/8/2023, 2:16:24 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ]
+}
+[4/8/2023, 2:16:25 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 23
+}
+[4/8/2023, 2:16:26 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 23
+}
+[4/8/2023, 2:16:28 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 24
+}
+[4/8/2023, 2:16:31 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 25
+}
+[4/8/2023, 2:16:32 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 26
+}
+[4/8/2023, 2:48:23 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ]
+}
+[4/8/2023, 2:48:24 PM] server	 employee-route.js - {
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  empId: 1008,
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  todo: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ]
+}
+[4/8/2023, 2:48:26 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    },
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 27
+}
+[4/8/2023, 2:48:27 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 28
+}
+[4/8/2023, 2:48:28 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 29
+}
+[4/8/2023, 2:48:30 PM] server	 employee-route.js - {
+  empId: 1008,
+  firstName: 'Keiko',
+  lastName: 'Abe',
+  todo: [
+    {
+      text: 'Update crumb cake nav',
+      _id: new ObjectId("642db6909716a0830db97d57")
+    },
+    {
+      text: 'Create red doughtut chart',
+      _id: new ObjectId("642db6459716a0830db97d24")
+    }
+  ],
+  done: [
+    {
+      text: 'Remove print icons from page',
+      _id: new ObjectId("642db6459716a0830db97d25")
+    }
+  ],
+  _id: new ObjectId("641903fa3831274709d5d03d"),
+  __v: 30
+}
+[4/8/2023, 2:48:55 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 57,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ]
+}
+[4/8/2023, 2:48:55 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  todo: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ]
+}
+[4/8/2023, 2:54:16 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  done: [],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 58
+}
+[4/8/2023, 2:54:17 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 59
+}
+[4/8/2023, 2:54:20 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ],
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 60
+}
+[4/8/2023, 2:54:21 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ],
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 61
+}
+[4/8/2023, 2:54:28 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 61,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 2:54:28 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 2:54:34 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 2:54:36 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 2:54:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 2:54:40 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 2:54:42 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/8/2023, 2:54:43 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/10/2023, 7:18:11 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 180,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ]
+}
+[4/10/2023, 7:18:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ]
+}
+[4/10/2023, 7:18:13 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ],
+  done: [],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 181
+}
+[4/10/2023, 7:18:14 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ],
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 182
+}
+[4/10/2023, 7:18:59 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ],
+  done: [],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 183
+}
+[4/10/2023, 7:20:56 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ],
+  done: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 184
+}
+[4/10/2023, 7:20:57 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") }
+  ],
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 185
+}
+[4/10/2023, 7:20:58 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [ { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") } ],
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 186
+}
+[4/10/2023, 7:20:59 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [],
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 187
+}
+[4/10/2023, 7:21:10 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [],
+  done: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 187
+}
+[4/10/2023, 7:21:28 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 188
+}
+[4/10/2023, 7:21:29 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 189
+}
+[4/10/2023, 7:21:29 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 189
+}
+[4/10/2023, 7:21:30 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 190
+}
+[4/10/2023, 7:21:31 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 191
+}
+[4/10/2023, 7:21:47 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 192
+}
+[4/10/2023, 7:21:51 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 193
+}
+[4/10/2023, 7:25:35 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 194
+}
+[4/10/2023, 7:25:36 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 194
+}
+[4/10/2023, 7:25:37 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 195
+}
+[4/10/2023, 7:25:39 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ],
+  todo: [
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ]
+}
+[4/10/2023, 7:30:58 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 196
+}
+[4/10/2023, 7:30:59 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 197
+}
+[4/10/2023, 7:31:01 PM] server	 employee-route.js - {
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    { text: 'test 1', _id: new ObjectId("6431ac893f102122c30ec376") },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ],
+  done: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  __v: 198
+}
+[4/10/2023, 7:31:04 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 199,
+  done: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ]
+}
+[4/11/2023, 6:12:23 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    }
+  ]
+}
+[4/11/2023, 6:16:25 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  firstName: 'Milton',
+  lastName: 'Babbitt',
+  __v: 200,
+  done: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    { text: '1012', _id: new ObjectId("6435dc39a25d7a7d4839d18b") }
+  ]
+}
+[4/11/2023, 6:16:38 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b37a5f688e09fbfccc7b1"),
+  empId: 1007,
+  done: [
+    {
+      text: 'Code review with Anthony',
+      _id: new ObjectId("6431aa033f102122c30ec2e9")
+    }
+  ],
+  todo: [
+    {
+      text: 'Review recent pull requests',
+      _id: new ObjectId("6431aa303f102122c30ec30d")
+    },
+    {
+      text: 'Push code to Github',
+      _id: new ObjectId("6431aa0b3f102122c30ec2ed")
+    },
+    { text: '1012', _id: new ObjectId("6435dc39a25d7a7d4839d18b") }
+  ]
+}
+[4/11/2023, 6:17:01 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 61,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/11/2023, 6:17:01 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/11/2023, 6:33:29 PM] server	 employee-routes.js - null
+[4/11/2023, 6:38:00 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 61,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/11/2023, 6:38:00 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/11/2023, 6:38:51 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/11/2023, 6:39:36 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/11/2023, 7:30:15 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/11/2023, 7:30:18 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ],
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 62
+}
+[4/11/2023, 7:30:19 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [],
+  done: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 63
+}
+[4/11/2023, 7:30:27 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 63,
+  done: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: []
+}
+[4/11/2023, 7:30:27 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    },
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: []
+}
+[4/11/2023, 7:32:27 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ],
+  done: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 64
+}
+[4/11/2023, 7:32:28 PM] server	 employee-route.js - {
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ],
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  __v: 65
+}

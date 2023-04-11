@@ -54,18 +54,20 @@
   </div>
   <br><br>
 
+  <!--todo-and done columns-->
   <div fxFlex>
 
     <div fxLayout="row" fxLayoutGap="15px" class="task-container" style="margin-top: 10px;">
 
-      <!-- To Do task column -->
+      <!-- todo task column -->
       <div fxFlex>
         <mat-card class="mat-elevation-z0">
           <mat-card-title>
             To Do
           </mat-card-title>
           <mat-card-content>
-            <!-- connect todo and done columns for drag and drop -->
+
+            <!--drag and drop functionality-->
             <div
               class="task-column"
               fxLayout="column"
@@ -100,14 +102,15 @@
         </mat-card>
       </div>
 
-      <!-- Done task column -->
+      <!-- done task column -->
       <div fxFlex>
         <mat-card class="mat-elevation-z0">
           <mat-card-title>
             Done
           </mat-card-title>
           <mat-card-content>
-            <!-- connect todo and done columns for drag and drop -->
+
+            <!--drag and drop functionality-->
             <div class="task-column"
               fxLayout="column"
               fxLayoutGap="10px"
@@ -124,6 +127,7 @@
                       <div fxFlex>
                         {{item.text}}
                       </div>
+
                       <!-- delete icon -->
                       <div fxFlex fxLayoutAlign="end" style="margin-top: -7px">
                         <button mat-icon-button (click)="deleteTask(item._id)">
