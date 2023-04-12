@@ -18323,3 +18323,46 @@
     }
   ]
 }
+[4/12/2023, 12:06:10 PM] server	 employee-routes.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  firstName: 'Lora',
+  lastName: 'Aborn',
+  __v: 65,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
+[4/12/2023, 12:06:11 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
