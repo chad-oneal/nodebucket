@@ -18303,3 +18303,23 @@
   _id: new ObjectId("641b3765f688e09fbfccc7b0"),
   __v: 65
 }
+[4/11/2023, 8:34:05 PM] server	 employee-route.js - {
+  _id: new ObjectId("641b3765f688e09fbfccc7b0"),
+  empId: 1012,
+  done: [
+    {
+      text: 'Delete node modules',
+      _id: new ObjectId("642e1ef5b9636271b4a90d74")
+    }
+  ],
+  todo: [
+    {
+      text: 'Change DB connection string',
+      _id: new ObjectId("642e1ef5b9636271b4a90d75")
+    },
+    {
+      text: 'Get funding for TPS reports',
+      _id: new ObjectId("642e1f2eb9636271b4a90d7d")
+    }
+  ]
+}
